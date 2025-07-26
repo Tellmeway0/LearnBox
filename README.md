@@ -1,5 +1,5 @@
 <img alt="内卷盒子" src="https://github.com/Tellmeway0/LearnBox/blob/main/cover.png?raw=true" />
-
+<img alt="内卷盒子" src="https://github.com/Tellmeway0/LearnBox/blob/main/preview.png?raw=true" />
 # 内卷盒子
 
 **内卷盒子**是一款基于**Vela JS**的快应用，围绕***倒计时、鸡汤激励、横屏时钟、锁机、留言***五项核心功能构建，帮助用户在学习与工作中保持专注、持续高效。
